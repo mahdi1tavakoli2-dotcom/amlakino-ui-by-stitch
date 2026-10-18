@@ -1,0 +1,6 @@
+{
+  "summary": "Architecture refactoring plan for AMLAKINO dashboard: modular monolith transition, routing, state management, real property CRUD contracts, domain boundaries, and safe incremental execution phases.",
+  "updatedAt": "2026-10-13T13:15:29.142012062Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

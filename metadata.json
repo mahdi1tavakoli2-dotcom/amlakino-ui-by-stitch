@@ -1,0 +1,6 @@
+{
+  "name": "Amlakino Advisor Dashboard",
+  "description": "داشبورد هوشمند مشاور املاکینو - مدیریت بازدیدها، پیگیری‌ها، تطبیق هوشمند فایل و مشتری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
